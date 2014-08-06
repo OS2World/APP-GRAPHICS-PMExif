@@ -1,0 +1,15 @@
+VX-REXX OS/2 V2.10 Build B3
+VRX: PMExif.VRX
+MacroPath: VRM:E:\DATA\VXREXX\PMExif
+EXEPath: 
+RunParameters: 
+RunDirectory: 
+VRXWindow: __VREMainWindow,1,36,241,7082,10142
+VRXWindow: __VREFileListWindow,1,84,4577,3517,2433
+VRXWindow: __VRESectionListWindow,1,36,11997,12081,3011
+VRXWindow: __VREToolsWindow,1,60,10359,4990,1667
+VRXWindow: __VREWindListWindow,1,72,7082,3445,1867
+UserFile: 1
+UserWindow: Window1,1
+UserWindow: WIN_Browser,1
+UserWindow: WIN_ThView,1
